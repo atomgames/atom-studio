@@ -29,6 +29,15 @@
             padding: 10px 20px;
         }
 
+        button {
+            padding: 5px 10px;
+            background-color: black;
+            border: 1px solid white;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
         .games {
             margin-top: 20px;
             width: 100%;
@@ -37,13 +46,21 @@
             max-width: 600px;
         }
 
-        .programs {
-            margin-top: 40px;
-            padding: 20px;
-            border: 1px solid #444;
-            width: 800px;
-            max-width: 90%;
+        .button1 {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            margin: 0;
         }
+
+        .button2
+        {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            margin: 0;
+        }
+        
     </style>
 </head>
 <body>
@@ -58,7 +75,12 @@
     <a href="doomsday.html">Doomsday</a>
     <a href="save_the_rocket.html">Save the Rocket</a>
 </div>
-<a href="PrivacyPolicy.html">Privacy Policy</a>
+
+<div class="buttons">
+    <a class="button2" href="PrivacyPolicy.html">Privacy Policy</a>
+    <button class="button1">uk</button>
+</div>
+
 </body>
 
 </html>
