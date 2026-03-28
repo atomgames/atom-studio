@@ -21,7 +21,7 @@ body {
 }
 
 .active-lang {
-    background-color: #00ffcc;
+    background-color: white;
     color: black;
     font-weight: bold;
     box-shadow: 0 0 10px #00ffcc;
