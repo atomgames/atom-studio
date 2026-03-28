@@ -24,7 +24,7 @@ body {
     background-color: white;
     color: black;
     font-weight: bold;
-    box-shadow: 0 0 10px #00ffcc;
+    box-shadow: 10px #00ffcc;
 }
 
 #privacypolicyPage {
@@ -37,8 +37,7 @@ body {
 a, button {
     color: #00ffcc;
     border: 1px solid #00ffcc;
-    box-shadow: 0 0 5px #00ffcc;
-}
+    }
 
 .games {
     margin-top: 20px;
