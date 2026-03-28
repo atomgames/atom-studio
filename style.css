@@ -15,11 +15,13 @@ body {
 .lang-btn {
     padding: 5px 10px;
     margin: 5px;
+    color: white;
+    background-color: black;
     cursor: pointer;
 }
 
 .active-lang {
-    background-color: lime;
+    background-color: white;
     color: black;
     font-weight: bold;
 }
