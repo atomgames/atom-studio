@@ -12,6 +12,18 @@ body {
     min-height: 100vh;
     }
 
+.lang-btn {
+    padding: 5px 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.active-lang {
+    background-color: lime;
+    color: black;
+    font-weight: bold;
+}
+
 #privacypolicyPage {
     max-width: 800px;
     margin: auto;
