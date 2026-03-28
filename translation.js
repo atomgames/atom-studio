@@ -90,8 +90,6 @@ function Translate(lang) {
     const btn = document.getElementById("translateButton");
     if (btn) btn.innerText = translations[lang].button;
 
-    document.title = translations[lang].nameOfPage;
-
     const createdEl = document.getElementById("created");
     if (createdEl) createdEl.innerText = translations[lang].created;
 
