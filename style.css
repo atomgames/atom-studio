@@ -21,17 +21,18 @@ body {
 }
 
 .active-lang {
-    background-color: white;
+    background-color: #00ffcc;
     color: black;
     font-weight: bold;
+    box-shadow: 0 0 10px #00ffcc;
 }
 
 #privacypolicyPage {
     max-width: 800px;
     margin: auto;
-    line-height: 1.6;
+    line-height: 1.8;
     font-size: 18px;
-    }
+}
 
 a, button {
     color: #00ffcc;
