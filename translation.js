@@ -81,6 +81,10 @@ function toggleLanguage() {
 }
 
 function Translate(lang) {
+    document.getElementById("lang-en")?.classList.remove("active-lang");
+    document.getElementById("lang-ua")?.classList.remove("active-lang");
+
+    document.getElementById("lang-" + lang)?.classList.add("active-lang");
     localStorage.setItem('selectedLang', lang);
 
     const btn = document.getElementById("translateButton");
