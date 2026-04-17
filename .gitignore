@@ -1,0 +1,42 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raylib / assets
+# assets
+# assets/*.tmp
+
+# Inno Setup
+Output/
+output/
+*.exe
+
+*.iss.backup
+
+# Build
+publish/
+
+# Secrets
+.env
