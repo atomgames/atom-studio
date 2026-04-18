@@ -3,11 +3,11 @@ const translations = {
         created: "Created: 20.01.26",
         privacyPolicy: "Privacy Policy",
         privacyPolicyPage: `
-**Last updated: 17.04.2026**
+Last updated: 17.04.2026
 
 ---
 
-## 1. General Information
+1. General Information
 
 This Privacy Policy explains how **Atom Studio** collects, uses, and protects user information when using our games, applications, or websites.
 
@@ -15,7 +15,7 @@ By using our products, you agree to the terms of this Privacy Policy.
 
 ---
 
-## 2. Third-Party Services
+2. Third-Party Services
 
 Our products may use third-party services (such as analytics or advertising providers). These services may collect information in accordance with their own privacy policies.
 
@@ -23,7 +23,7 @@ We are not responsible for the practices of third-party services.
 
 ---
 
-## 4. Children's Privacy
+4. Children's Privacy
 
 Our products are not intended to collect personal data from children under the age of 13.
 
@@ -31,7 +31,7 @@ If we become aware that such data has been collected, we will take steps to dele
 
 ---
 
-## 5. Changes to This Policy
+5. Changes to This Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated date.
         `,
@@ -43,11 +43,11 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
         created: "Створено: 20.01.26",
         privacyPolicy: "Політика конфіденційності",
         privacyPolicyPage: `
-**Останнє оновлення: 17.04.2026**<br><br>
+Останнє оновлення: 17.04.2026<br><br>
 
 ---<br><br>
 
-## 1. Загальна інформація<br><br>
+1. Загальна інформація<br><br>
 
 У цій Політиці конфіденційності пояснюється, як **Atom Studio** збирає, використовує та захищає інформацію користувачів під час використання наших ігор, програм або веб-сайтів.<br><br>
 
@@ -55,7 +55,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ---<br><br>
 
-## 2. Сторонні сервіси<br><br>
+2. Сторонні сервіси<br><br>
 
 Наші продукти можуть використовувати сторонні сервіси (такі як аналітика або рекламні провайдери). Ці сервіси можуть збирати інформацію відповідно до власних політик конфіденційності.<br><br>
 
@@ -63,7 +63,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ---<br><br>
 
-## 4. Конфіденційність дітей <br><br>
+4. Конфіденційність дітей <br><br>
 
 Наші продукти не призначені для збору персональних даних дітей віком до 13 років. <br>
 
@@ -71,7 +71,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ---<br><br>
 
-## 5. Зміни до цієї Політики<br><br>
+5. Зміни до цієї Політики<br><br>
 
 Ми можемо час від часу оновлювати цю Політику конфіденційності. Будь-які зміни будуть опубліковані на цій сторінці з оновленою датою.<br>
         `,
