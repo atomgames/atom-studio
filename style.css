@@ -22,7 +22,7 @@ body {
 
 .active-lang {
     background-color: black;
-    color: white;
+    color: black;
     font-weight: bold;
     border: 1px solid green;
 }
